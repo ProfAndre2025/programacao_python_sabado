@@ -13,4 +13,5 @@ secante = 1/seno
 cosecante = 1/coseno
 cotangente = 1/tangente
 
-print(f"Seno {seno}\nCosseno {coseno}\nTangente {tangente}\nSecante {secante}\nCo-secante{cosecante}\nCo-tangente {cotangente}")
+print(f"Seno {seno}\nCosseno {coseno}\nTangente {tangente}\nSecante\
+       {secante}\nCo-secante{cosecante}\nCo-tangente {cotangente}")
